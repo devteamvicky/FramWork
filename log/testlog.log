@@ -1,0 +1,144 @@
+2023-01-19 22:28:55,524 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-19 22:29:08,636 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-19 22:29:08,656 - org.stepdefinition.StepDefinition -INFO - Facebook â€“ log in or sign up
+2023-01-19 22:29:08,659 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-19 22:29:08,660 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-19 22:29:09,454 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-19 22:29:09,624 - org.stepdefinition.StepDefinition -INFO - UserName : 	 iloveyou
+2023-01-19 22:29:09,735 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 765fsd
+2023-01-19 22:29:09,909 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-19 22:29:11,956 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-19 22:29:11,988 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Log in to Facebook
+2023-01-19 22:29:11,989 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
+2023-01-19 22:29:12,426 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-19 22:29:20,169 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-19 22:29:20,186 - org.stepdefinition.StepDefinition -INFO - Facebook â€“ log in or sign up
+2023-01-19 22:29:20,187 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-19 22:29:20,194 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-19 22:29:20,831 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-19 22:29:20,908 - org.stepdefinition.StepDefinition -INFO - UserName : 	 imissYou
+2023-01-19 22:29:20,984 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 6d7892
+2023-01-19 22:29:21,248 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-19 22:29:23,543 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-19 22:29:23,567 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Error
+2023-01-19 22:29:23,568 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
+2023-01-19 22:29:23,985 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-19 22:29:31,513 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-19 22:29:31,531 - org.stepdefinition.StepDefinition -INFO - Facebook â€“ log in or sign up
+2023-01-19 22:29:31,532 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-19 22:29:31,533 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-19 22:29:32,272 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-19 22:29:32,359 - org.stepdefinition.StepDefinition -INFO - UserName : 	 tonystark
+2023-01-19 22:29:32,450 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 ggsg8922
+2023-01-19 22:29:32,730 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-19 22:29:44,605 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-19 22:29:44,648 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Log in to Facebook
+2023-01-19 22:29:44,652 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
+2023-01-19 22:29:45,054 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-19 22:29:51,351 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-19 22:29:51,366 - org.stepdefinition.StepDefinition -INFO - Facebook â€“ log in or sign up
+2023-01-19 22:29:51,368 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-19 22:29:51,368 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-19 22:29:52,029 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-19 22:29:52,101 - org.stepdefinition.StepDefinition -INFO - UserName : 	 captainAmercia
+2023-01-19 22:29:52,160 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 d87889s
+2023-01-19 22:29:52,320 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-19 22:29:57,092 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-19 22:29:57,146 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Log in to Facebook
+2023-01-19 22:29:57,147 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
+2023-01-20 18:19:11,363 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-20 18:19:32,976 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-20 18:19:33,007 - org.stepdefinition.StepDefinition -INFO - Facebook – log in or sign up
+2023-01-20 18:19:33,009 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-20 18:19:33,012 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-20 18:19:34,003 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-20 18:19:34,147 - org.stepdefinition.StepDefinition -INFO - UserName : 	 iloveyou
+2023-01-20 18:19:34,225 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 765fsd
+2023-01-20 18:19:34,406 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-20 18:19:36,344 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-20 18:19:36,365 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Log in to Facebook
+2023-01-20 18:19:36,366 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
+2023-01-20 18:19:36,714 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-20 18:19:45,587 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-20 18:19:45,607 - org.stepdefinition.StepDefinition -INFO - Facebook – log in or sign up
+2023-01-20 18:19:45,608 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-20 18:19:45,616 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-20 18:19:46,365 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-20 18:19:46,453 - org.stepdefinition.StepDefinition -INFO - UserName : 	 imissYou
+2023-01-20 18:19:46,532 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 6d7892
+2023-01-20 18:19:46,707 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-20 18:19:48,458 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-20 18:19:48,486 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Error
+2023-01-20 18:19:48,487 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
+2023-01-20 18:19:48,870 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-20 18:19:56,161 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-20 18:19:56,180 - org.stepdefinition.StepDefinition -INFO - Facebook – log in or sign up
+2023-01-20 18:19:56,181 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-20 18:19:56,182 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-20 18:19:56,842 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-20 18:19:56,918 - org.stepdefinition.StepDefinition -INFO - UserName : 	 tonystark
+2023-01-20 18:19:56,972 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 ggsg8922
+2023-01-20 18:19:57,159 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-20 18:20:09,003 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-20 18:20:09,048 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Log in to Facebook
+2023-01-20 18:20:09,050 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
+2023-01-20 18:20:09,670 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-20 18:20:15,969 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-20 18:20:15,986 - org.stepdefinition.StepDefinition -INFO - Facebook – log in or sign up
+2023-01-20 18:20:15,989 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-20 18:20:15,992 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-20 18:20:16,673 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-20 18:20:16,750 - org.stepdefinition.StepDefinition -INFO - UserName : 	 captainAmercia
+2023-01-20 18:20:16,808 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 d87889s
+2023-01-20 18:20:16,948 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-20 18:20:20,643 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-20 18:20:20,671 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Log in to Facebook
+2023-01-20 18:20:20,675 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
+2023-01-20 18:26:31,247 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-20 18:26:47,988 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-20 18:26:48,024 - org.stepdefinition.StepDefinition -INFO - Facebook – log in or sign up
+2023-01-20 18:26:48,027 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-20 18:26:48,028 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-20 18:26:49,719 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-20 18:26:50,029 - org.stepdefinition.StepDefinition -INFO - UserName : 	 iloveyou
+2023-01-20 18:26:50,139 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 765fsd
+2023-01-20 18:26:50,474 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-20 18:26:53,416 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-20 18:26:53,464 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Log in to Facebook
+2023-01-20 18:26:53,465 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
+2023-01-20 18:26:53,852 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-20 18:27:02,069 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-20 18:27:02,098 - org.stepdefinition.StepDefinition -INFO - Facebook – log in or sign up
+2023-01-20 18:27:02,098 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-20 18:27:02,104 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-20 18:27:02,883 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-20 18:27:02,991 - org.stepdefinition.StepDefinition -INFO - UserName : 	 imissYou
+2023-01-20 18:27:03,074 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 6d7892
+2023-01-20 18:27:03,267 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-20 18:27:05,289 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-20 18:27:05,321 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Error
+2023-01-20 18:27:05,322 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
+2023-01-20 18:27:05,597 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-20 18:27:12,782 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-20 18:27:12,807 - org.stepdefinition.StepDefinition -INFO - Facebook – log in or sign up
+2023-01-20 18:27:12,807 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-20 18:27:12,808 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-20 18:27:13,583 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-20 18:27:13,696 - org.stepdefinition.StepDefinition -INFO - UserName : 	 tonystark
+2023-01-20 18:27:13,783 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 ggsg8922
+2023-01-20 18:27:13,982 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-20 18:27:23,567 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-20 18:27:23,627 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Log in to Facebook
+2023-01-20 18:27:23,630 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
+2023-01-20 18:27:24,052 - org.stepdefinition.StepDefinition -INFO - Enetering Facebook_Url 
+2023-01-20 18:27:32,429 - org.stepdefinition.StepDefinition -INFO - https://www.facebook.com/
+2023-01-20 18:27:32,459 - org.stepdefinition.StepDefinition -INFO - Facebook – log in or sign up
+2023-01-20 18:27:32,464 - org.stepdefinition.StepDefinition -INFO - Hi..vicky..Welecome ..finally Acheived....................
+2023-01-20 18:27:32,467 - org.stepdefinition.StepDefinition -INFO - ***********************FaceBook Url Launched*******************************
+2023-01-20 18:27:33,549 - org.stepdefinition.StepDefinition -INFO - ******************************Entering Username and password***********************************
+2023-01-20 18:27:33,681 - org.stepdefinition.StepDefinition -INFO - UserName : 	 captainAmercia
+2023-01-20 18:27:33,772 - org.stepdefinition.StepDefinition -INFO - PassWord : 	 d87889s
+2023-01-20 18:27:33,991 - org.stepdefinition.StepDefinition -INFO - ******************************Button Logging Click********************************************
+2023-01-20 18:27:38,645 - org.stepdefinition.StepDefinition -INFO - Browser after current Url = https://www.facebook.com/
+2023-01-20 18:27:38,761 - org.stepdefinition.StepDefinition -INFO - Browser Launching after title = Log in to Facebook
+2023-01-20 18:27:38,764 - org.stepdefinition.StepDefinition -INFO - ************************************Validate username password and Checking Dashboard*****************************************************
